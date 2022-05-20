@@ -1,0 +1,99 @@
+Line 1 -> STRUCT
+Line 1 -> ID: S
+Line 1 -> LACC
+Line 2 -> INT
+Line 2 -> ID: n
+Line 2 -> SEMICOLON
+Line 3 -> CHAR
+Line 3 -> ID: text
+Line 3 -> LBRACKET
+Line 3 -> CT_INT: 16
+Line 3 -> RBRACKET
+Line 3 -> SEMICOLON
+Line 4 -> RACC
+Line 4 -> SEMICOLON
+Line 6 -> STRUCT
+Line 6 -> ID: S
+Line 6 -> ID: a
+Line 6 -> SEMICOLON
+Line 7 -> STRUCT
+Line 7 -> ID: S
+Line 7 -> ID: v
+Line 7 -> LBRACKET
+Line 7 -> CT_INT: 10
+Line 7 -> RBRACKET
+Line 7 -> SEMICOLON
+Line 8 -> VOID
+Line 8 -> ID: f
+Line 8 -> LPAR
+Line 8 -> CHAR
+Line 8 -> ID: text
+Line 8 -> LBRACKET
+Line 8 -> RBRACKET
+Line 8 -> COMMA
+Line 8 -> INT
+Line 8 -> ID: i
+Line 8 -> COMMA
+Line 8 -> CHAR
+Line 8 -> ID: ch
+Line 8 -> RPAR
+Line 8 -> LACC
+Line 9 -> ID: text
+Line 9 -> LBRACKET
+Line 9 -> ID: i
+Line 9 -> RBRACKET
+Line 9 -> ASSIGN
+Line 9 -> ID: ch
+Line 9 -> SEMICOLON
+Line 10 -> RACC
+Line 12 -> INT
+Line 12 -> ID: h
+Line 12 -> LPAR
+Line 12 -> INT
+Line 12 -> ID: x
+Line 12 -> COMMA
+Line 12 -> INT
+Line 12 -> ID: y
+Line 12 -> RPAR
+Line 12 -> LACC
+Line 13 -> INT
+Line 13 -> ID: k
+Line 13 -> SEMICOLON
+Line 13 -> ID: k
+Line 13 -> ASSIGN
+Line 13 -> CT_INT: 0
+Line 13 -> SEMICOLON
+Line 14 -> IF
+Line 14 -> LPAR
+Line 14 -> ID: x
+Line 14 -> GREATER
+Line 14 -> CT_INT: 0
+Line 14 -> AND
+Line 14 -> ID: x
+Line 14 -> LESS
+Line 14 -> ID: y
+Line 14 -> RPAR
+Line 14 -> LACC
+Line 15 -> ID: f
+Line 15 -> LPAR
+Line 15 -> ID: v
+Line 15 -> LBRACKET
+Line 15 -> ID: x
+Line 15 -> RBRACKET
+Line 15 -> DOT
+Line 15 -> ID: text
+Line 15 -> COMMA
+Line 15 -> ID: y
+Line 15 -> COMMA
+Line 15 -> CT_CHAR: #
+Line 15 -> RPAR
+Line 15 -> SEMICOLON
+Line 16 -> RETURN
+Line 16 -> CT_INT: 1
+Line 16 -> SEMICOLON
+Line 17 -> RACC
+Line 18 -> RETURN
+Line 18 -> CT_INT: 0
+Line 18 -> SEMICOLON
+Line 19 -> RACC
+Line 20 -> END

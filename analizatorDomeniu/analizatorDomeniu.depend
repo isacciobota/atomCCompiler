@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1652778316 source:d:\facultate\an 3\sem ii\lftc\analizatordomeniu\ad.c
+	"ad.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1652778276 d:\facultate\an 3\sem ii\lftc\analizatordomeniu\ad.h
+
+1652778603 source:d:\facultate\an 3\sem ii\lftc\analizatordomeniu\main.c
+	"ad.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1652778386 source:d:\facultate\an 3\sem ii\lftc\analizatordomeniu\testanalizatordomeniu.c
+

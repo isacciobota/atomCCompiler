@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652944918 source:d:\facultate\an 3\sem ii\lftc\analizatortipuri\ad.c
+	"ad.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1652944852 d:\facultate\an 3\sem ii\lftc\analizatortipuri\ad.h
+
+1652945161 source:d:\facultate\an 3\sem ii\lftc\analizatortipuri\at.c
+	<string.h>
+	"at.h"
+
+1652945133 d:\facultate\an 3\sem ii\lftc\analizatortipuri\at.h
+	<stdbool.h>
+	"ad.h"
+
+1652950608 source:d:\facultate\an 3\sem ii\lftc\analizatortipuri\main.c
+	"ad.h"
+	"at.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1652945200 source:d:\facultate\an 3\sem ii\lftc\analizatortipuri\testanalizatortipuri.c
+
