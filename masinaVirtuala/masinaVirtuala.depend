@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1653479364 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\at.c
+	<string.h>
+	"at.h"
+
+1653479324 d:\facultate\an 3\sem ii\lftc\masinavirtuala\at.h
+	<stdbool.h>
+	"ad.h"
+
+1653479232 d:\facultate\an 3\sem ii\lftc\masinavirtuala\ad.h
+
+1653482932 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\main.c
+	"ad.h"
+	"at.h"
+	"mv.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1653479476 d:\facultate\an 3\sem ii\lftc\masinavirtuala\mv.h
+
+1653482738 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\testanalizatortipuri.c
+
+1653483037 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\ad.c
+	"ad.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1653483053 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\mv.c
+	"ad.h"
+	"mv.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+

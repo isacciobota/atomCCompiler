@@ -1385,7 +1385,7 @@ int main()
   iTk = tokens;
   bool start = unit();
   // printf("%d\n", start);
-  showAtoms();
+  //showAtoms();
 
 
   free(iTk);
