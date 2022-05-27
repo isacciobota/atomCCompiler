@@ -1,5 +1,7 @@
 # AtomC Compiler #
 
+Compiler for a reduced version of C 
+
 ## Diagrame pentru analizatorul lexical ## 
 
   ![diagrame1](https://user-images.githubusercontent.com/80629738/169466871-a2aa913a-31e8-437b-9b01-7d0d98374c44.jpg)
