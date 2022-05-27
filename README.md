@@ -18,3 +18,6 @@
 ## Analiza de tipuri ##
 
 [AtomC - analiza de tipuri.pdf](https://github.com/isacciobota/atomCCompiler/files/8737019/AtomC.-.analiza.de.tipuri.pdf)
+
+## Generare de cod ##
+[AtomC - generarea de cod.pdf](https://github.com/isacciobota/atomCCompiler/files/8785179/AtomC.-.generarea.de.cod.pdf)
