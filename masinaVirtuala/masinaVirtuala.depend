@@ -9,7 +9,7 @@
 
 1653479232 d:\facultate\an 3\sem ii\lftc\masinavirtuala\ad.h
 
-1653482932 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\main.c
+1653483183 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\main.c
 	"ad.h"
 	"at.h"
 	"mv.h"
@@ -33,7 +33,7 @@
 	<string.h>
 	<stdbool.h>
 
-1653483053 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\mv.c
+1653915431 source:d:\facultate\an 3\sem ii\lftc\masinavirtuala\mv.c
 	"ad.h"
 	"mv.h"
 	<stdio.h>

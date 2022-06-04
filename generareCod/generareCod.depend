@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1653837980 source:d:\facultate\an 3\sem ii\lftc\generarecod\ad.c
+	"ad.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1653838012 d:\facultate\an 3\sem ii\lftc\generarecod\ad.h
+
+1653838028 source:d:\facultate\an 3\sem ii\lftc\generarecod\at.c
+	<string.h>
+	"at.h"
+
+1653838047 d:\facultate\an 3\sem ii\lftc\generarecod\at.h
+	<stdbool.h>
+	"ad.h"
+
+1653838191 source:d:\facultate\an 3\sem ii\lftc\generarecod\gc.c
+	"gc.h"
+
+1653838175 d:\facultate\an 3\sem ii\lftc\generarecod\gc.h
+	"at.h"
+	"mv.h"
+
+1653838086 d:\facultate\an 3\sem ii\lftc\generarecod\mv.h
+
+1653838070 source:d:\facultate\an 3\sem ii\lftc\generarecod\mv.c
+	"ad.h"
+	"mv.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1653838133 source:d:\facultate\an 3\sem ii\lftc\generarecod\testgenerarecod.c
+
+1653892574 source:d:\facultate\an 3\sem ii\lftc\generarecod\main.c
+	"ad.h"
+	"at.h"
+	"mv.h"
+	"gc.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
